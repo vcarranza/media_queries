@@ -1,0 +1,34 @@
+.container-fluid{
+  background-color: gray
+}
+.jumbotron-one{
+  background-color: gray
+}
+
+.btn-group{
+  background-color: gray
+}
+
+.well-lg{
+  background-color: gray
+}
+
+
+@media(min-width:1200px) and (max-width:1300px)
+{container-fluid {
+  background-color: gray
+}
+@media(min-width:1200px) and (max-width:1300px)
+{jumbotron-one {
+  background-color: gray
+}
+
+@media(min-width:1200px) and (max-width:1300px)
+{btn-group {
+  background-color: gray
+}
+
+@media(min-width:1200px) and (max-width:1300px)
+{well-lg {
+  background-color: gray
+}
